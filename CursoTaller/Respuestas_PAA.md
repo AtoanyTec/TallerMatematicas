@@ -391,7 +391,7 @@ P(X=2)\approx0.311
 
 ### Respuesta
 $\[
-\boxed{31.1\%}
+\boxed{31.1}
 \]$
 
 ---
