@@ -12,8 +12,8 @@ Un estudiante responde correctamente 36 preguntas de un examen de 60. ¿Qué por
 **Procedimiento:**
 
 $\[
-$\text{Porcentaje} = \left(\frac{\text{Respuestas correctas}}{\text{Total de preguntas}}\right) \times 100
-$\]
+\text{Porcentaje} = \left(\frac{\text{Respuestas correctas}}{\text{Total de preguntas}}\right) \times 100
+\]$
 
 Sustituyendo:
 
