@@ -447,5 +447,5 @@ $\[
 
 ### Respuesta
 $\[
-\boxed{\frac35=60\%}
+\boxed{\frac35=60}
 \]$
