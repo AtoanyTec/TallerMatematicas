@@ -1,0 +1,293 @@
+{
+  "titulo": "Práctica Taller de Familiarización para la PAA",
+  "fuente": "Dia 1- Prueba 20 ejercicios.pdf",
+  "numero_reactivos": 20,
+  "nota": "Digitalización fiel del contenido visible. El documento fuente no incluye clave de respuestas; por ello no se agrega respuesta_correcta.",
+  "reactivos": [
+    {
+      "id": "PAA-MAT-001",
+      "numero": 1,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "En la multiplicación siguiente, p y q representan dígitos diferentes a 0.\n\n      pp\n    ×  p\n    ----\n      q7p\n\n¿Cuál es el valor de q?",
+      "opciones": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-002",
+      "numero": 2,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Se sabe que a y b son números enteros positivos diferentes entre sí y distintos de 1. Además, a ≠ 3. Si n = 3 × a × b, ¿cuál de las siguientes expresiones es SIEMPRE divisible por n?",
+      "opciones": {
+        "A": "a × b × 12",
+        "B": "a × b",
+        "C": "b × 3",
+        "D": "b × 9"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-003",
+      "numero": 3,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Utilice la siguiente gráfica para contestar la pregunta. En la gráfica anterior, ¿cuál es la moda del número de mascotas de las personas encuestadas?",
+      "opciones": {
+        "A": "1",
+        "B": "1.38",
+        "C": "2",
+        "D": "6"
+      },
+      "imagen": {
+        "ruta": "images/reactivo_03_grafica.png",
+        "descripcion": "Gráfica de barras sobre número de mascotas."
+      }
+    },
+    {
+      "id": "PAA-MAT-004",
+      "numero": 4,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Una empresa desea realizar un estudio acerca de las actividades que realizan sus trabajadores en su tiempo libre. Sin embargo, por cuestiones de tiempo y dinero, no pueden obtener esta información. Por ello, seleccionan al azar 30 trabajadores de cada una de sus ocho áreas de trabajo y los encuestan. ¿Cuál es la muestra del estudio?",
+      "opciones": {
+        "A": "Todos los trabajadores de la empresa",
+        "B": "Los trabajadores que realizan ciertas actividades en su tiempo libre",
+        "C": "30 de los trabajadores seleccionados",
+        "D": "240 trabajadores seleccionados"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-005",
+      "numero": 5,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Ximena tiene 4 pares de zapatos, 6 camisas, 4 pantalones y 3 faldas. Si se pone una prenda de cada tipo a la vez, pero escoge una sola entre los pantalones y las faldas, ¿cuántas combinaciones de prendas puede hacer?",
+      "opciones": {
+        "A": "6",
+        "B": "17",
+        "C": "168",
+        "D": "288"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-006",
+      "numero": 6,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Una caja contiene dos tipos de piezas: discos y canicas. En total, hay 3 discos rojos, 2 discos azules, 5 discos amarillos, 8 canicas rojas, 4 canicas azules y 4 canicas amarillas. Al presionar un botón, cae una pieza al azar y la pieza no se introduce de nuevo en la caja. ¿Cuál es la probabilidad de que, al presionar el botón, caiga una canica y, al presionarlo de nuevo, caiga un disco?",
+      "opciones": {
+        "A": "8/13",
+        "B": "2/5",
+        "C": "16/65",
+        "D": "40/169"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-007",
+      "numero": 7,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Si m = 6 y n = 7, ¿cuál de las siguientes expresiones algebraicas es igual a 30?",
+      "opciones": {
+        "A": "3(3m - (-3n))",
+        "B": "4m + -2(2n + 1)",
+        "C": "2(2m) + (-4n - 2)",
+        "D": "2(-m + n + 2n)"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-008",
+      "numero": 8,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Simplifique la expresión a⁴ × a³ × a⁻¹, si a ≠ 0.",
+      "opciones": {
+        "A": "a⁻¹²",
+        "B": "a⁻⁶",
+        "C": "a⁶",
+        "D": "a¹²"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-009",
+      "numero": 9,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "Observe la siguiente expresión. Luego, responda.\n\n10 − 6(4/3 + (x−1)/(x+2)) = h\n\nSi (7x+5)/(3x+6) = 11/6, ¿cuál es el valor de h en la expresión anterior?",
+      "opciones": {
+        "A": "h = −1",
+        "B": "h = 1",
+        "C": "h = 4",
+        "D": "h = 11/6"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-010",
+      "numero": 10,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "Si 3x² − 6 = 6, ¿cuál es el valor de 2(x² − 5) − 1?",
+      "opciones": {
+        "A": "−3",
+        "B": "−2",
+        "C": "0",
+        "D": "1"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-011",
+      "numero": 11,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "Si para cierto valor de a la solución de la ecuación 2a√x + 4 = 3 es x = 5, entonces para ese mismo valor de a, ¿cuál es la solución de 4 + a√(x − 2) = 6?",
+      "opciones": {
+        "A": "x = 1/2",
+        "B": "x = 5",
+        "C": "x = 18",
+        "D": "x = 36"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-012",
+      "numero": 12,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "En la siguiente figura, ACD es un triángulo isósceles. ¿Cuánto mide el ángulo ACB?",
+      "opciones": {
+        "A": "30°",
+        "B": "45°",
+        "C": "60°",
+        "D": "90°"
+      },
+      "imagen": {
+        "ruta": "images/reactivo_12_figura.png",
+        "descripcion": "Diagrama geométrico del triángulo ACD."
+      }
+    },
+    {
+      "id": "PAA-MAT-013",
+      "numero": 13,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "Fernando y Lucía compraron un boleto de lotería en $25. Si Fernando aportó $4 más que la mitad del dinero que aportó Lucía, ¿cuánto dinero aportó Fernando?",
+      "opciones": {
+        "A": "$7",
+        "B": "$11",
+        "C": "$14",
+        "D": "$19"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-014",
+      "numero": 14,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "Determine el campo de valores de la función f(x) = −2x² − 12x + 3.",
+      "opciones": {
+        "A": "{y ∈ R / y ≥ −3}",
+        "B": "{y ∈ R / y ≥ 21}",
+        "C": "{y ∈ R / y ≤ 21}",
+        "D": "{y ∈ R / y ≤ −3}"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-015",
+      "numero": 15,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "Si f(x) = 3x + 2, ¿cuál de las siguientes gráficas corresponde a la de f(x)?",
+      "opciones": {
+        "A": "Ver gráfica A",
+        "B": "Ver gráfica B",
+        "C": "Ver gráfica C",
+        "D": "Ver gráfica D"
+      },
+      "imagen": {
+        "ruta": "images/reactivo_15_graficas.png",
+        "descripcion": "Cuatro gráficas candidatas A, B, C y D."
+      }
+    },
+    {
+      "id": "PAA-MAT-016",
+      "numero": 16,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "Si f(x) = 2x y g(x) = 3x + 2, ¿cuál de las siguientes expresiones es equivalente a g(f(x))?",
+      "opciones": {
+        "A": "6x + 2",
+        "B": "6x + 4",
+        "C": "6x² + 2",
+        "D": "6x² + 4"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-017",
+      "numero": 17,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "Si f(x) = 2x + 4 y g(x) = 3x, ¿cuál de las siguientes expresiones es equivalente a f(g(3))?",
+      "opciones": {
+        "A": "22",
+        "B": "30",
+        "C": "18x + 12",
+        "D": "27x + 4"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-018",
+      "numero": 18,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "En la siguiente figura, el triángulo ABC es isósceles y el triángulo DEF es equilátero y está inscrito en el triángulo ABC. ¿Cuál es el valor de q?",
+      "opciones": {
+        "A": "40",
+        "B": "60",
+        "C": "70",
+        "D": "110"
+      },
+      "imagen": {
+        "ruta": "images/reactivo_18_figura.png",
+        "descripcion": "Diagrama de los triángulos ABC y DEF."
+      }
+    },
+    {
+      "id": "PAA-MAT-019",
+      "numero": 19,
+      "pagina_pdf": 3,
+      "tipo": "respuesta_numerica",
+      "enunciado": "¿Cuál es el valor de n para que la ecuación (81ⁿ · 9ⁿ) / 27ⁿ = 3¹² se cumpla?",
+      "opciones": null,
+      "imagen": null
+    },
+    {
+      "id": "PAA-MAT-020",
+      "numero": 20,
+      "pagina_pdf": 3,
+      "tipo": "respuesta_numerica",
+      "enunciado": "Observe la siguiente figura. La figura muestra un cuadrado y un triángulo. Los vértices del triángulo son el centro del cuadrado, el punto medio del lado AB y el vértice A. Si el área del triángulo es 3 cm², ¿cuál es el área del cuadrado, en centímetros cuadrados?",
+      "opciones": null,
+      "imagen": {
+        "ruta": "images/reactivo_20_figura.png",
+        "descripcion": "Cuadrado con triángulo interior definido por A, el punto medio de AB y el centro del cuadrado."
+      }
+    }
+  ]
+}
