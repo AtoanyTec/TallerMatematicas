@@ -1,0 +1,314 @@
+{
+  "titulo": "Práctica Taller de Familiarización para la PAA",
+  "edicion": "Ngj/2021",
+  "fuente": "DIA 2 Otra Prueba Práctica.pdf",
+  "numero_reactivos": 21,
+  "nota": "Digitalización fiel del contenido visible. Los reactivos 16–21 son de respuesta numérica según la hoja de respuestas. No se agrega clave de respuestas.",
+  "reactivos": [
+    {
+      "id": "PAA-D2-MAT-001",
+      "numero": 1,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Si (x − y)/2 = 24, entonces x − y =",
+      "opciones": {
+        "A": "6",
+        "B": "12",
+        "C": "24",
+        "D": "48",
+        "E": "96"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-002",
+      "numero": 2,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Cierto número más tres veces el mismo número es igual a 64. La expresión es:",
+      "opciones": {
+        "A": "x + x³ = 64",
+        "B": "4x = 64",
+        "C": "3x = 64",
+        "D": "x³ = 64",
+        "E": "x + 3 = 64"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-003",
+      "numero": 3,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "¿Cuál es el promedio de los números x, y y z?",
+      "opciones": {
+        "A": "3xyz",
+        "B": "xyz",
+        "C": "xyz/2",
+        "D": "3(x + y + z)",
+        "E": "(x + y + z)/3"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-004",
+      "numero": 4,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "El doble del cuadrado del producto de 5 y 3:",
+      "opciones": {
+        "A": "90",
+        "B": "150",
+        "C": "300",
+        "D": "450",
+        "E": "900"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-005",
+      "numero": 5,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "El promedio de temperaturas para 5 días fueron: 82°, 86°, 91°, 79° y 90°F. ¿Cuál es la media aritmética de estas temperaturas?",
+      "opciones": {
+        "A": "86°",
+        "B": "85.6°",
+        "C": "91°",
+        "D": "84°",
+        "E": "83.8°"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-006",
+      "numero": 6,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "¿Cuál es el área del polígono ABCD?",
+      "opciones": {
+        "A": "16",
+        "B": "20",
+        "C": "24",
+        "D": "30",
+        "E": "36"
+      },
+      "imagen": {
+        "ruta": "images/reactivo_06_figura.png",
+        "descripcion": "Figura asociada al reactivo 6."
+      }
+    },
+    {
+      "id": "PAA-D2-MAT-007",
+      "numero": 7,
+      "pagina_pdf": 2,
+      "tipo": "opcion_multiple",
+      "enunciado": "Si x = 2/3 + 3/2, entonces 1/x =",
+      "opciones": {
+        "A": "6/7",
+        "B": "6/13",
+        "C": "13/6",
+        "D": "2",
+        "E": "1/4"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-008",
+      "numero": 8,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "La asistencia regular a un cine en el estreno de una película es de sala llena durante los primeros 5 días, si se estrena en un día miércoles. Después de esos primeros 5 días, la asistencia va disminuyendo aproximadamente un tercio de la asistencia del día anterior. En una sala para 750 personas, ¿cuántos días, incluyendo el día del estreno, la sala tiene más de la mitad de las personas?",
+      "opciones": {
+        "A": "5",
+        "B": "3",
+        "C": "6",
+        "D": "7",
+        "E": "10"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-009",
+      "numero": 9,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "5 × 25 × 625 se escribe como 5 × 5 × 5 × 5 × 5 × 5. ¿Cuántos 5 hay en el producto?",
+      "opciones": {
+        "A": "5",
+        "B": "3",
+        "C": "6",
+        "D": "7",
+        "E": "10"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-010",
+      "numero": 10,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "Si ABCD es un cuadrado de 4 cm de ancho, ¿cuál es el área de la región sombreada, en centímetros cuadrados?",
+      "opciones": {
+        "A": "10",
+        "B": "12",
+        "C": "16",
+        "D": "4",
+        "E": "8"
+      },
+      "imagen": {
+        "ruta": "images/reactivo_10_figura.png",
+        "descripcion": "Figura asociada al reactivo 10."
+      }
+    },
+    {
+      "id": "PAA-D2-MAT-011",
+      "numero": 11,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "En la figura anterior, ¿cuál es el valor de x + y + z + w?",
+      "opciones": {
+        "A": "360°",
+        "B": "310°",
+        "C": "260°",
+        "D": "230°",
+        "E": "180°"
+      },
+      "imagen": {
+        "ruta": "images/reactivo_11_figura.png",
+        "descripcion": "Figura asociada al reactivo 11."
+      }
+    },
+    {
+      "id": "PAA-D2-MAT-012",
+      "numero": 12,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "En una encuesta realizada en 200 hogares de una ciudad, 130 tienen cisterna de agua, 90 tienen generador de electricidad y 50 tienen ambas cosas. Si se selecciona un hogar al azar, ¿cuál es la probabilidad de que tenga cisterna de agua?",
+      "opciones": {
+        "A": "1.54",
+        "B": "0.65",
+        "C": "0.45",
+        "D": "0.5",
+        "E": "0.2"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-013",
+      "numero": 13,
+      "pagina_pdf": 3,
+      "tipo": "opcion_multiple",
+      "enunciado": "La tabla anterior representa una relación entre x y y. El valor de y que falta en la tabla es:",
+      "opciones": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "E": "6"
+      },
+      "imagen": null,
+      "tabla": {
+        "x": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "y": [
+          0,
+          1,
+          null,
+          9
+        ]
+      }
+    },
+    {
+      "id": "PAA-D2-MAT-014",
+      "numero": 14,
+      "pagina_pdf": 4,
+      "tipo": "opcion_multiple",
+      "enunciado": "El volumen de un cubo es 64 cm³. El área en centímetros cuadrados de la superficie de una cara del cubo es:",
+      "opciones": {
+        "A": "6.4",
+        "B": "12",
+        "C": "16",
+        "D": "4",
+        "E": "8"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-015",
+      "numero": 15,
+      "pagina_pdf": 4,
+      "tipo": "opcion_multiple",
+      "enunciado": "La velocidad de un auto es 3 1/2 veces la velocidad de una bicicleta, ¿cuánto tarda la bicicleta en recorrer 500 kilómetros si un auto tarda 8 horas?",
+      "opciones": {
+        "A": "56 horas",
+        "B": "35 horas",
+        "C": "28 horas",
+        "D": "24 horas",
+        "E": "20 horas"
+      },
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-016",
+      "numero": 16,
+      "pagina_pdf": 4,
+      "tipo": "respuesta_numerica",
+      "enunciado": "¿De cuántas formas se puede seleccionar un platillo de entrada, un plato fuerte y un postre si se ofrecen 5 platillos diferentes de entrada, 8 platos fuertes y 3 postres?",
+      "opciones": null,
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-017",
+      "numero": 17,
+      "pagina_pdf": 4,
+      "tipo": "respuesta_numerica",
+      "enunciado": "Si |x + 4| = 2, entonces 3 − |x + 4|/2 =",
+      "opciones": null,
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-018",
+      "numero": 18,
+      "pagina_pdf": 4,
+      "tipo": "respuesta_numerica",
+      "enunciado": "En una clase de 50 estudiantes, 10 juegan futbol. ¿Qué porcentaje no juega futbol?",
+      "opciones": null,
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-019",
+      "numero": 19,
+      "pagina_pdf": 4,
+      "tipo": "respuesta_numerica",
+      "enunciado": "En la figura, ¿cuál es el valor de x? ",
+      "opciones": null,
+      "imagen": {
+        "ruta": "images/reactivo_19_figura.png",
+        "descripcion": "Figura asociada al reactivo 19."
+      }
+    },
+    {
+      "id": "PAA-D2-MAT-020",
+      "numero": 20,
+      "pagina_pdf": 4,
+      "tipo": "respuesta_numerica",
+      "enunciado": "La distancia que viaja una piedra cuando cae de un edificio muy alto es directamente proporcional al cuadrado del tiempo del viaje. Si la piedra cae 24 metros en 4 segundos, ¿cuántos metros recorre la piedra en 6 segundos?",
+      "opciones": null,
+      "imagen": null
+    },
+    {
+      "id": "PAA-D2-MAT-021",
+      "numero": 21,
+      "pagina_pdf": 4,
+      "tipo": "respuesta_numerica",
+      "enunciado": "El perímetro de una circunferencia es 3 veces el perímetro de otra, ¿cuántas veces el área de la circunferencia mayor es el área de la circunferencia menor?",
+      "opciones": null,
+      "imagen": null
+    }
+  ]
+}
